@@ -13,6 +13,7 @@ if __name__ == "__main__":
             return (mul(a, b))
         if op == "/":
             return (div(a, b))
+
     nb = len(sys.argv)
     arg = sys.argv
     signe = "-+*/"
