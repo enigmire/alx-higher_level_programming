@@ -8,6 +8,6 @@ if __name__ == "__main__":
         print(0)
         exit()
 
-        for i in range(1, nb):
-            som += int(sys.argv[i])
-        print(som)
+    for i in range(1, nb):
+        som += int(sys.argv[i])
+    print(som)
