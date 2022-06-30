@@ -1,18 +1,6 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
-    from calculator_1 import add
-    a = 10
-    b = 5
-
-    from calculator_1 import sub
-    a = 10
-    b = 5
-
-    from calculator_1 import mul
-    a = 10
-    b = 5
-
-    from calculator_1 import div
+    from calculator_1 import add, sub, mul, div
     a = 10
     b = 5
 
