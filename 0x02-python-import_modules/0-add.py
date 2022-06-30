@@ -5,4 +5,4 @@ def add(a, b):
 a = 1
 b = 2
 
-print(add(a, b), end='')
+print(add(a, b), end=' ')
