@@ -12,4 +12,4 @@ class Student:
 
     def to_json(self):
         """ converting to json """
-        return self.
+        return self.__dict__
